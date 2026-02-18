@@ -1,0 +1,16 @@
+this is a demo file 
+i have created for my test 
+and i will perform all the functions in this file
+like commit,push, pull git branch
+:w
+
+
+
+:w
+
+
+:w
+:wq
+
+
+
